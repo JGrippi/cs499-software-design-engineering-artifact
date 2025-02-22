@@ -4,8 +4,8 @@
 This repository contains both the original and enhanced versions of a mobile application developed for CS-320: Software Testing, Automation, and Quality Assurance at Southern New Hampshire University. The application implements three core services (ContactService, TaskService, and AppointmentService) with comprehensive unit testing and validation.
 
 ## Project Structure
-- `/original` - Original implementation focusing on CRUD operations and unit testing
 - `/enhanced` - Enhanced version with performance testing and thread safety improvements
+- `/original` - Original implementation focusing on CRUD operations and unit testing
 - `narrative.md` - Detailed narrative explaining enhancements and learning outcomes
 
 ## Technical Requirements
