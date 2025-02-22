@@ -42,4 +42,4 @@ The enhancement focuses on two major areas:
 ## Documentation
 - [Original Implementation](/original/README.md)
 - [Enhanced Version](/enhanced/README.md)
-- [Enhancement Narrative](narrative.md)
+- [Narrative](narrative.md)
