@@ -9,9 +9,14 @@ This repository contains both the original and enhanced versions of a mobile app
 - `narrative.md` - Detailed narrative explaining enhancements and learning outcomes
 
 ## Technical Requirements
-- Java JDK 11 or higher
+Original Implementation:
+- JavaSE-1.8
 - JUnit 5 for testing
-- Java concurrent utilities for enhanced version
+
+Enhanced Version:
+- JavaSE-17
+- JUnit 5 for testing
+- Java concurrent utilities
 
 ## Key Features
 - CRUD operations for contacts, tasks, and appointments
